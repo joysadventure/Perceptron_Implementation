@@ -18,5 +18,9 @@ conda create --prefix ./env python=3.7 -y
 ```
 conda activate ./env
 
+```
+## make the directory command in the gitbash file
 
+```
+mkdir Rsearch_env
 ```
